@@ -33,9 +33,9 @@ I build robust infrastructure and ship software — from containerised microserv
 
 | Project | Stack | Description |
 |---|---|---|
+| [termi](https://github.com/shuvoooo/termi) | TypeScript | Terminal utility |
 | [dockmon](https://github.com/shuvoooo/dockmon) | Python · Docker | Single-file Docker container monitor |
 | [smartsales-ml](https://github.com/shuvoooo/smartsales-ml) | Python | Sales prediction with ML |
-| [termi](https://github.com/shuvoooo/termi) | TypeScript | Terminal utility |
 | [nextjs-seo-starter](https://github.com/shuvoooo/nextjs-seo-starter) | TypeScript | SEO-optimised Next.js template |
 | [robotics-maze-solver](https://github.com/shuvoooo/robotics-maze-solver) | C++ | Autonomous maze navigation |
 | [vr-space-game](https://github.com/shuvoooo/vr-space-game) | C# | VR space game |
