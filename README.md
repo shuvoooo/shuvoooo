@@ -2,7 +2,7 @@
 
 # Shuvo
 
-**DevOps Engineer · Full-Stack Developer · ML Enthusiast**
+**DevOps Engineer · Full-Stack Developer · AI?ML Enthusiast**
 
 Bangladesh &nbsp;·&nbsp; [shuvoo.com](https://www.shuvoo.com) &nbsp;·&nbsp; [shuvo.punam@gmail.com](mailto:shuvo.punam@gmail.com) &nbsp;·&nbsp; [@ShuvoPunam](https://twitter.com/ShuvoPunam)
 
