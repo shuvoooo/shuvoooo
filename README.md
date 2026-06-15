@@ -105,8 +105,7 @@
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD9F7&langs_count=8)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuvoooo&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD9F7&ring=6AD9F7&fire=FF6B6B&currStreakLabel=6AD9F7&sideLabels=6AD9F7)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shuvoooo&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4&margin-h=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoooo&theme=tokyonight)
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuvoooo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD9F7&line=6AD9F7&point=fff&area=true&area_color=6AD9F7)
 
