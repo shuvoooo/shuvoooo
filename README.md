@@ -12,52 +12,40 @@ Bangladesh &nbsp;·&nbsp; [shuvoo.com](https://www.shuvoo.com) &nbsp;·&nbsp; [s
 
 ## About
 
-I build robust infrastructure and ship software — from containerised microservices and CI/CD pipelines to machine-learning APIs and IoT systems. Currently driving DevOps transformation at **Texon Limited**.
+I build robust infrastructure and ship software — from containerised microservices and CI/CD pipelines to machine-learning APIs and IoT systems. Currently driving DevOps transformation at Texon Limited.
 
 ---
 
 ## Tech
 
-**Infrastructure & Cloud**
-`Docker` `Kubernetes` `Terraform` `CloudFormation` `Jenkins` `GitLab CI`
+**Infrastructure & Cloud** &nbsp; Docker &nbsp; Kubernetes &nbsp; Terraform &nbsp; CloudFormation &nbsp; Jenkins &nbsp; GitLab CI
 
-**Languages**
-`Python` `TypeScript` `PHP` `JavaScript` `C++` `C#` `Shell`
+**Languages** &nbsp; Python &nbsp; TypeScript &nbsp; PHP &nbsp; JavaScript &nbsp; C++ &nbsp; C# &nbsp; Shell
 
-**Frameworks & Tools**
-`Django` `FastAPI` `Laravel` `Next.js` `GraphQL` `MQTT`
+**Frameworks & Tools** &nbsp; Django &nbsp; FastAPI &nbsp; Laravel &nbsp; Next.js &nbsp; GraphQL &nbsp; MQTT
 
 ---
 
 ## Highlights
 
+<sub>📌 <em>Note: All of my most advanced repositories are private and cannot be included here. The projects below represent a selection of my public work.</em></sub>
+
+### ⭐ Featured — Most Advanced Public Project
+
 | Project | Stack | Description |
-|---|---|---|
-| [termi](https://github.com/shuvoooo/termi) | TypeScript | Terminal utility |
+|---------|-------|-------------|
+| [**termi**](https://github.com/shuvoooo/termi) | TypeScript · Next.js · Node.js · PostgreSQL · Docker | Self-hosted server management platform — SSH, SCP, RDP, VNC & local terminal from the browser or desktop. Features AES-256-GCM credential encryption, Argon2id hashing, TOTP / WebAuthn 2FA, Google OAuth, real-time server monitoring, PWA support, and a native Electron desktop app. |
+
+### Other Public Repositories
+
+| Project | Stack | Description |
+|---------|-------|-------------|
 | [dockmon](https://github.com/shuvoooo/dockmon) | Python · Docker | Single-file Docker container monitor |
 | [smartsales-ml](https://github.com/shuvoooo/smartsales-ml) | Python | Sales prediction with ML |
 | [nextjs-seo-starter](https://github.com/shuvoooo/nextjs-seo-starter) | TypeScript | SEO-optimised Next.js template |
 | [robotics-maze-solver](https://github.com/shuvoooo/robotics-maze-solver) | C++ | Autonomous maze navigation |
-| [vr-space-game](https://github.com/shuvoooo/vr-space-game) | C# | VR space game |
+| [DeepSSA](https://github.com/shuvoooo/DeepSSA) | Python · TeX | Deep Stochastic Sensor Allocation research |
 
 ---
 
 ## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvoooo&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoooo&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-shuvoo.com-0a0a0a?style=flat&logo=google-chrome&logoColor=white)](https://www.shuvoo.com)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4492--7326-a6ce39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4492-7326)
-[![Twitter](https://img.shields.io/badge/Twitter-@ShuvoPunam-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ShuvoPunam)
-
-</div>
