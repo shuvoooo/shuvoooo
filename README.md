@@ -79,4 +79,6 @@ I live in the terminal. My morning starts with `kubectl`, my afternoon involves 
 
 </div>
 
+> 🔒 **Note:** My most complex and production-level projects live in private repositories and cannot be showcased here.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%"/>
