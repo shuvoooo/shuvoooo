@@ -14,6 +14,8 @@ I'm a **DevOps Engineer** by day — wiring up container clusters, writing pipel
 
 I live in the terminal. My morning starts with `kubectl`, my afternoon involves `terraform plan`, and my evenings are often spent building things nobody asked for but felt necessary. Most of my serious work is in private repos — what you see here is just the surface.
 
+More at **[shuvoo.com](https://shuvoo.com)**.
+
 ```
 📍 Dhaka, Bangladesh   ⚡ 8,637 commits since 2015   🔥 58-day streak
 ```
