@@ -10,12 +10,12 @@
 
 ### 👋 Hey, I'm Shuvo
 
-I'm a **DevOps Engineer** at [Texon Limited](https://texon.com) by day — wiring up container clusters, writing pipelines that don't wake me at 3am, and shipping ML APIs to production. I've been writing code since I was a teenager and never really stopped.
+I'm a **DevOps Engineer** by day — wiring up container clusters, writing pipelines that don't wake me at 3am, and shipping ML APIs to production. I've been writing code since I was a teenager and never really stopped.
 
 I live in the terminal. My morning starts with `kubectl`, my afternoon involves `terraform plan`, and my evenings are often spent building things nobody asked for but felt necessary. Most of my serious work is in private repos — what you see here is just the surface.
 
 ```
-📍 Dhaka, Bangladesh   🏢 Texon Limited   ⚡ 8,637 commits since 2015   🔥 58-day streak
+📍 Dhaka, Bangladesh   ⚡ 8,637 commits since 2015   🔥 58-day streak
 ```
 
 ---
