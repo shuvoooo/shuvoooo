@@ -35,9 +35,10 @@ I live in the terminal. My morning starts with `kubectl`, my afternoon involves 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white) ![WebAuthn](https://img.shields.io/badge/WebAuthn_2FA-5C2D91?style=flat-square&logo=microsoft&logoColor=white) ![AES-256](https://img.shields.io/badge/AES--256--GCM-FF0000?style=flat-square&logo=letsencrypt&logoColor=white) ![Argon2](https://img.shields.io/badge/Argon2id-2C2C2C?style=flat-square&logo=keybase&logoColor=white)
 
 ---
+> 🔒 **Note:** My most complex and production-level projects live in private repositories and cannot be showcased here.
+---
 
-### 🚀 termi — my most serious public project
-
+### 🚀 Termi — my most serious public project
 > A self-hosted server management platform I built because I was tired of juggling separate SSH, RDP, and VNC clients.
 >
 > | What it does | How |
